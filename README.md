@@ -3,7 +3,7 @@
 
 <div style="text-align:center">
 
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=devrafaeldoria&show_icons=true&theme=dracula)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrafaeldoria&show_icons=true&theme=tokyonight)
 
 
 </div>
